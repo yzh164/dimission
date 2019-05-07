@@ -1,0 +1,11 @@
+#文档名称
+site_name: YuanZeHao 交接文档
+nav: 
+- '首页': 'index.md'
+- 'svn': 'svn.md'
+- '旺店宝打印项目常见问题': 'wonbao_print_familiar.md'
+- '旺店宝引流常见问题': 'wonbao_traffic.md'
+- '旺店宝图片编辑常见问题': 'wonbao_editor.md'
+- 'EJB创建': 'ejb_create.md'
+#文档主题
+theme: readthedocs

@@ -1,0 +1,12 @@
+#文档名称
+site_name: YuanZeHao 交接文档
+nav: 
+- '首页': 'index.md'
+- 'svn': 'svn.md'
+- 'EJB创建': 'ejb_create.md'
+- '旺店宝常见问题': 'wonbao.md'
+- '小程序': 'wepyjs.md'
+- '自动评价': 'rate.md'
+- '速递交易压测': 'sdjy.md'
+#文档主题
+#theme: readthedocs
