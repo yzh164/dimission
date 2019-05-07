@@ -18,8 +18,7 @@
 ## 小程序
 ### 旺衣库小程序
 	`https://svn.wonbao.net/!/#2018/view/head/wyiku/period-01/程序源码/mall`
-#### <h4 style="color:red">旺衣库小程序目录结构</h4>
-```
+<h4 style="color:red">旺衣库小程序目录结构</h4>
 	├── api
 	│   └── api.js  //接口文件
 	├── app.wpy		//入口文件
@@ -31,7 +30,7 @@
 	├── styles		//样式文件存放位置
 	├── utils  		//工具类文件存放位置
 	└── wxs			//帮助类文件存放位置
-```
+
 #### <h4 style="color:red">旺衣库小程序接口文档</h4>
 <a href="https://docs.qq.com/sheet/Db01QSE9uYUJ0SEVm?opendocxfrom=admin&tab=jhqrco&coord=A1%24A1%240%240%240%240" target="_blank">旺衣库小程序接口文档点击进入查看</a>
 
